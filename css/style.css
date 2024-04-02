@@ -1,0 +1,31 @@
+.className{color:red;}
+.Nigger{
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    font-size: 100px;
+}
+.idk{
+    color: rgb(119, 119, 1);
+    font-weight: bold;
+    text-align: left;
+    font-size: 100px;
+}
+.oh{
+    color:rgb(119, 119, 1);
+    font-size: 25px;
+}
+.ahahah{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.how{
+    background-image: url('C:/Users/mptr0/Desktop/50-8-22/html/sdgfhhhhh/image/backgrr.PNG');
+}
+@font-face {
+    font-family: "Minecraft_Seven_2";
+    src: url(C:/Users/mptr0/Desktop/50-8-22/html/sdgfhhhhh/nooo/Minecraft_Seven_2.ttf) format("truetype");
+}
+p {font-family: 'Minecraft_Seven_2', Arial, sans-serif;}

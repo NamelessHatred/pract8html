@@ -1,0 +1,33 @@
+.className{color:red;}
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+}
+.Nigger{
+    color: white;
+    font-weight: bold;
+    justify-content: flex-start;
+    font-size: 100px;
+}
+.idk{
+    color: rgb(119, 119, 1);
+    font-weight: bold;
+    justify-content: flex-start;
+    font-size: 100px;
+}
+.oh{
+    color:rgb(119, 119, 1);
+    font-size: 25px;
+}
+.ahahah{
+    display: flex;
+    justify-content: flex-end;
+}
+.how{
+    background-image: url('C:/Users/mptr0/Desktop/50-8-22/html/sdgfhhhhh/image/backgrr.PNG');
+}
+@font-face {
+    font-family: "Minecraft_Seven_2";
+    src: url(C:/Users/mptr0/Desktop/50-8-22/html/sdgfhhhhh/nooo/Minecraft_Seven_2.ttf) format("truetype");
+}
+p {font-family: 'Minecraft_Seven_2', Arial, sans-serif;}
